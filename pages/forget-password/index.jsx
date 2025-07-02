@@ -4,7 +4,6 @@ import { Link } from '@heroui/link';
 import { Card,CardBody,CardHeader } from '@heroui/card';
 import { Input } from '@heroui/input';
 import { Button } from '@heroui/button';
-import Link from '@heroui/link';
 import { Mail, ArrowLeft, Send } from 'lucide-react';
 import Layout from '@/components/Layout';
 
